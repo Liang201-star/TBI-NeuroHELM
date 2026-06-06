@@ -1,0 +1,45 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*api_key*
+*secret*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Local/private benchmark data
+输入题集_英文版.csv
+项目6_benchmark_12benchmark_240例_选择式过半_v7.xlsx
+案例编号-实例编号表.xlsx
+Supplementary_Data_*.xlsx
+full_private_instances/
+private_data/
+
+# Raw/private run outputs
+tbi_neurohelm_outputs/
+tbi_neurohelm_outputs_*/
+01_model_outputs_raw.csv
+03_open_jury_scores_raw.csv
+TBI_NeuroHELM_results.xlsx
+
+# Temporary / non-submission files
+*TRUNCATED*
+*BACKUP*
+*DO_NOT_SUBMIT*
+internal_qc_not_for_submission/
+internal_qc/
+*.zip
+.DS_Store
+
+# Generated example/artifact outputs
+example_outputs_preflight/
+raw_artifacts/
+heliyon_artifacts/
+generated_artifacts/
