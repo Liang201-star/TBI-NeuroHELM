@@ -1,0 +1,17 @@
+% Supplementary Table 3. Model registry and run configuration.
+% Note: Requested API model IDs are the model names sent to the API endpoint, whereas observed response model IDs are those returned by the API. Prices are reported in USD per 1 million tokens and were used for run-specific cost estimation. All models were queried with temperature 0.0 and task-specific maximum token limits. Jury model status indicates whether a model was also used as one of the LLM judges for open-task scoring. Abbreviations: API, application programming interface; USD, United States dollars; LLM, large language model.
+\begin{tabular}{llllrrrrrrrrr}
+\toprule
+Model & Provider & Requested API model ID & Observed response model ID & Used as test model & Used as jury model & Input price per 1M tokens & Output price per 1M tokens & Temperature & Closed max tokens & Open max tokens & Jury max tokens & Workers \\
+\midrule
+claude-opus-4-7 & Anthropic & claude-opus-4-7 & claude-opus-4-7 & True & True & 5.000 & 25.000 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+claude-sonnet-4-6 & Anthropic & claude-sonnet-4-6 & claude-sonnet-4-6 & True & False & 3.000 & 15.000 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+deepseek-r1 & DeepSeek & deepseek-r1 & DeepSeek-R1-0528 & True & False & 0.570 & 2.280 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+deepseek-v3.2 & DeepSeek & deepseek-v3.2 & deepseek-v3.2 & True & False & 0.280 & 0.420 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+gemini-3-flash-preview & Google & gemini-3-flash-preview & gemini-3-flash-preview & True & False & 0.440 & 2.640 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+gemini-3.1-pro-preview & Google & gemini-3.1-pro-preview & gemini-3.1-pro-preview & True & True & 1.800 & 10.800 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+gpt-4o & OpenAI & gpt-4o & gpt-4o & True & True & 2.500 & 10.000 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+gpt-4o-mini & OpenAI & gpt-4o-mini & gpt-4o-mini & True & False & 0.150 & 0.600 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+qwen3.7-max & Alibaba/Qwen & qwen3.7-max & qwen3.7-max & True & False & 1.714 & 5.142 & 0.000 & 3072 & 6144 & 4096 & 5 \\
+\bottomrule
+\end{tabular}

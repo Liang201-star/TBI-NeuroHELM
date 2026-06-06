@@ -1,0 +1,15 @@
+% Supplementary Table 6. Robustness of LLM-jury scoring across judge subsets.
+% Note: Each row corresponds to a non-empty subset of the three LLM judges used for open-task scoring. Spearman rank correlation and Pearson macro-average correlation compare subset-derived results with the full three-judge reference. Top-1 match, top-3 overlap and rank-shift statistics quantify sensitivity of model ranking to judge selection. Abbreviations: LLM, large language model.
+\begin{tabular}{lrlrrrlrrrrrr}
+\toprule
+Jury subset & Number of jury models & Full-jury reference subset & Number of evaluated models & Spearman rank correlation with full jury & Pearson macro-average correlation with full jury & Top-1 model & Top-1 matches full jury & Top-3 overlap with full jury & Maximum absolute rank shift & Mean absolute rank shift & Mean macro-average & Mean win rate \\
+\midrule
+claude-opus-4-7 & 1 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 1.000 & 0.997 & claude-opus-4-7 & True & 1.000 & 0.000 & 0.000 & 0.867 & 0.479 \\
+gpt-4o & 1 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 0.967 & 0.990 & claude-opus-4-7 & True & 1.000 & 1.000 & 0.444 & 0.890 & 0.432 \\
+gemini-3.1-pro-preview & 1 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 0.967 & 0.988 & claude-opus-4-7 & True & 1.000 & 1.000 & 0.444 & 0.897 & 0.387 \\
+gpt-4o+claude-opus-4-7 & 2 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 1.000 & 0.998 & claude-opus-4-7 & True & 1.000 & 0.000 & 0.000 & 0.879 & 0.487 \\
+claude-opus-4-7+gemini-3.1-pro-preview & 2 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 1.000 & 0.998 & claude-opus-4-7 & True & 1.000 & 0.000 & 0.000 & 0.882 & 0.483 \\
+gpt-4o+gemini-3.1-pro-preview & 2 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 0.983 & 0.999 & claude-opus-4-7 & True & 1.000 & 1.000 & 0.222 & 0.894 & 0.455 \\
+gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 3 & gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview & 9 & 1.000 & 1.000 & claude-opus-4-7 & True & 1.000 & 0.000 & 0.000 & 0.885 & 0.491 \\
+\bottomrule
+\end{tabular}

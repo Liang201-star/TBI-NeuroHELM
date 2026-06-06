@@ -1,0 +1,111 @@
+Category,Subcategory,Benchmark,Benchmark name,Question type,Complexity,Number of instances
+Clinical Decision Support,Clinical Management Decision Support,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,advanced,2
+Clinical Decision Support,Clinical Management Decision Support,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,basic,4
+Clinical Decision Support,Clinical Management Decision Support,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,intermediate,4
+Clinical Decision Support,Clinical Management Decision Support,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,open_task,basic,2
+Clinical Decision Support,Clinical Management Decision Support,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,open_task,intermediate,1
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,closed_qa,advanced,2
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,closed_qa,basic,4
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,closed_qa,intermediate,4
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,open_task,advanced,1
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,open_task,basic,4
+Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,open_task,intermediate,3
+Clinical Decision Support,Injury Type Recognition and Clinical Classification,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,advanced,2
+Clinical Decision Support,Injury Type Recognition and Clinical Classification,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,basic,5
+Clinical Decision Support,Injury Type Recognition and Clinical Classification,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,intermediate,4
+Clinical Decision Support,Injury Type Recognition and Clinical Classification,CDS-B01,CDS-B01 - Recognition and Classification,open_task,basic,1
+Clinical Decision Support,Injury Type Recognition and Clinical Classification,CDS-B01,CDS-B01 - Recognition and Classification,open_task,intermediate,1
+Clinical Decision Support,Risk Prediction and Prognostic Assessment,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,advanced,2
+Clinical Decision Support,Risk Prediction and Prognostic Assessment,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,basic,4
+Clinical Decision Support,Risk Prediction and Prognostic Assessment,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,closed_qa,intermediate,4
+Clinical Decision Support,Risk Prediction and Prognostic Assessment,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,open_task,basic,2
+Clinical Decision Support,Risk Prediction and Prognostic Assessment,CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,open_task,intermediate,1
+Clinical Decision Support,TBI Identification and Severity Grading,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,advanced,2
+Clinical Decision Support,TBI Identification and Severity Grading,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,basic,5
+Clinical Decision Support,TBI Identification and Severity Grading,CDS-B01,CDS-B01 - Recognition and Classification,closed_qa,intermediate,4
+Clinical Decision Support,TBI Identification and Severity Grading,CDS-B01,CDS-B01 - Recognition and Classification,open_task,basic,1
+Clinical Decision Support,TBI Identification and Severity Grading,CDS-B01,CDS-B01 - Recognition and Classification,open_task,intermediate,1
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,closed_qa,advanced,1
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,closed_qa,basic,3
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,closed_qa,intermediate,2
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,open_task,advanced,2
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,open_task,basic,4
+Clinical Documentation Generation,Discharge and Follow-up Documentation,DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,open_task,intermediate,4
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,advanced,1
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,basic,2
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,intermediate,2
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,advanced,1
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,basic,3
+Clinical Documentation Generation,History and Neurological Examination Documentation,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,intermediate,2
+Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,closed_qa,basic,2
+Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,closed_qa,intermediate,2
+Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,advanced,2
+Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,basic,3
+Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,intermediate,2
+Clinical Documentation Generation,Progress Note Generation and Interval Assessment,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,closed_qa,basic,2
+Clinical Documentation Generation,Progress Note Generation and Interval Assessment,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,closed_qa,intermediate,2
+Clinical Documentation Generation,Progress Note Generation and Interval Assessment,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,advanced,2
+Clinical Documentation Generation,Progress Note Generation and Interval Assessment,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,basic,3
+Clinical Documentation Generation,Progress Note Generation and Interval Assessment,DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,open_task,intermediate,2
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,advanced,1
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,basic,4
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",closed_qa,intermediate,2
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,advanced,1
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,basic,1
+Clinical Documentation Generation,Structured Recording of Scales and Scores,DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",open_task,intermediate,2
+Medical Research Assistance,Assessment Data Curation and Analysis,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,advanced,1
+Medical Research Assistance,Assessment Data Curation and Analysis,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,basic,3
+Medical Research Assistance,Assessment Data Curation and Analysis,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,intermediate,2
+Medical Research Assistance,Assessment Data Curation and Analysis,RES-B01,RES-B01 - Research Data and Variable Definition,open_task,basic,1
+Medical Research Assistance,Assessment Data Curation and Analysis,RES-B01,RES-B01 - Research Data and Variable Definition,open_task,intermediate,2
+Medical Research Assistance,Model Evaluation and Comparative Analysis,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,closed_qa,basic,2
+Medical Research Assistance,Model Evaluation and Comparative Analysis,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,closed_qa,intermediate,1
+Medical Research Assistance,Model Evaluation and Comparative Analysis,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,advanced,1
+Medical Research Assistance,Model Evaluation and Comparative Analysis,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,basic,2
+Medical Research Assistance,Model Evaluation and Comparative Analysis,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,intermediate,3
+Medical Research Assistance,Research Findings Summarization and Writing Support,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,closed_qa,basic,2
+Medical Research Assistance,Research Findings Summarization and Writing Support,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,closed_qa,intermediate,1
+Medical Research Assistance,Research Findings Summarization and Writing Support,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,advanced,1
+Medical Research Assistance,Research Findings Summarization and Writing Support,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,basic,2
+Medical Research Assistance,Research Findings Summarization and Writing Support,RES-B02,RES-B02 - Research Summarization and Comparative Analysis,open_task,intermediate,3
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,closed_qa,advanced,1
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,closed_qa,basic,4
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,closed_qa,intermediate,3
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,open_task,advanced,1
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,open_task,basic,2
+Medical Research Assistance,Research Quality Control and Bias Assessment,RES-B03,RES-B03 - Research Quality and Bias Control,open_task,intermediate,3
+Medical Research Assistance,Variable and Outcome Definition Support,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,advanced,1
+Medical Research Assistance,Variable and Outcome Definition Support,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,basic,3
+Medical Research Assistance,Variable and Outcome Definition Support,RES-B01,RES-B01 - Research Data and Variable Definition,closed_qa,intermediate,2
+Medical Research Assistance,Variable and Outcome Definition Support,RES-B01,RES-B01 - Research Data and Variable Definition,open_task,basic,1
+Medical Research Assistance,Variable and Outcome Definition Support,RES-B01,RES-B01 - Research Data and Variable Definition,open_task,intermediate,2
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,advanced,1
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,basic,3
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,intermediate,2
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,advanced,1
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,basic,2
+Patient Communication and Education,Communication of Risk and Prognosis,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,intermediate,2
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,closed_qa,advanced,1
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,closed_qa,basic,3
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,closed_qa,intermediate,2
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,open_task,advanced,1
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,open_task,basic,2
+Patient Communication and Education,Explanation of Condition and Injury Status,COM-B01,COM-B01 - Condition Explanation,open_task,intermediate,2
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,closed_qa,advanced,1
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,closed_qa,basic,3
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,closed_qa,intermediate,2
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,open_task,advanced,1
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,open_task,basic,2
+Patient Communication and Education,Explanation of Investigations and Treatment Plans,COM-B01,COM-B01 - Condition Explanation,open_task,intermediate,2
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,closed_qa,advanced,2
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,closed_qa,basic,4
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,closed_qa,intermediate,4
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,open_task,advanced,1
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,open_task,basic,3
+Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,COM-B03,COM-B03 - Follow-up and Long-term Management Communication,open_task,intermediate,2
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,advanced,1
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,basic,3
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,closed_qa,intermediate,2
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,advanced,1
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,basic,2
+Patient Communication and Education,Rehabilitation Guidance and Home Care Education,COM-B02,COM-B02 - Risk and Rehabilitation Communication,open_task,intermediate,2

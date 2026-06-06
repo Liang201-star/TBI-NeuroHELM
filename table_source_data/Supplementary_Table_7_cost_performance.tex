@@ -1,0 +1,17 @@
+% Supplementary Table 7. Cost–performance summary.
+% Note: Token counts and costs include both benchmark response generation and LLM-jury scoring for open tasks. Costs were estimated using the model price table applied at analysis time and are reported in USD. Mean win rate and macro-average are the primary performance summaries. These costs should be interpreted as run-specific estimates rather than fixed model prices. Abbreviations: USD, United States dollars; LLM, large language model.
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Model & Provider & Benchmark input tokens & Benchmark output tokens & Benchmark cost (USD) & Jury input tokens & Jury output tokens & Jury cost (USD) & Total cost (USD) & Mean win rate & Macro-average \\
+\midrule
+claude-opus-4-7 & Anthropic & 307942 & 171578 & 5.829 & 888294 & 97238 & 4.357 & 10.186 & 0.938 & 0.931 \\
+gemini-3.1-pro-preview & Google & 177586 & 225322 & 2.753 & 684733 & 94129 & 3.619 & 6.372 & 0.698 & 0.920 \\
+claude-sonnet-4-6 & Anthropic & 203325 & 201308 & 3.630 & 1150788 & 101689 & 5.331 & 8.960 & 0.688 & 0.917 \\
+qwen3.7-max & Alibaba/Qwen & 184409 & 310794 & 1.914 & 696645 & 98848 & 3.717 & 5.631 & 0.604 & 0.900 \\
+gemini-3-flash-preview & Google & 177553 & 211499 & 0.636 & 675849 & 103697 & 3.695 & 4.331 & 0.490 & 0.888 \\
+gpt-4o & OpenAI & 177923 & 43271 & 0.878 & 694870 & 116383 & 3.907 & 4.785 & 0.385 & 0.892 \\
+deepseek-r1 & DeepSeek & 172531 & 147566 & 0.435 & 768877 & 119750 & 4.200 & 4.634 & 0.312 & 0.871 \\
+deepseek-v3.2 & DeepSeek & 172291 & 38052 & 0.064 & 675781 & 126307 & 3.950 & 4.014 & 0.292 & 0.856 \\
+gpt-4o-mini & OpenAI & 177923 & 25395 & 0.042 & 631108 & 140903 & 3.968 & 4.010 & 0.021 & 0.788 \\
+\bottomrule
+\end{tabular}

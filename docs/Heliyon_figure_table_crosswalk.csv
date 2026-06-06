@@ -1,0 +1,18 @@
+﻿Old item,New item,Content,Action
+Figure 1,Figure 1,TBI-NeuroHELM framework,unchanged
+Figure 2,Figure 2,TBI-NeuroHELM taxonomy,unchanged
+Figure 3,Figure 3,Benchmark-level heat map,unchanged
+Figure 4,Figure 4,Category-level heat map,unchanged
+Figure 5,Figure 5,Cost-performance scatter plot,unchanged
+Table 1,Table 1,Overall model performance leaderboard,unchanged; editable xlsx added
+Supplementary Figure 2,Supplementary Figure 1,Subcategory-level heat map,renumbered
+Supplementary Figure 1,Supplementary Figure 2,LLM-jury robustness,renumbered
+Supplementary Table 7,Supplementary Table 1,Benchmark suite,renumbered
+Supplementary Table 1,Supplementary Table 2,Instance distribution,renumbered
+Supplementary Table 2,Supplementary Table 3,Model registry and run configuration,renumbered
+Supplementary Table 3,Supplementary Table 4,Open-task scoring dimensions,renumbered
+Supplementary Table 5,Supplementary Table 5,Model responses and LLM-jury scores,unchanged
+Supplementary Table 4,Supplementary Table 6,LLM-jury combination robustness,renumbered
+Supplementary Table 8,Supplementary Table 7,Cost-performance data,renumbered
+Supplementary Table 6,Supplementary Table 8,Senior neurologist ratings,renumbered
+Supplementary Table 9,Supplementary Table 9,Senior-neurologist validation summary,unchanged; filename wording refined

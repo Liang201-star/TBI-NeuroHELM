@@ -1,0 +1,17 @@
+% Supplementary Table 4. Open-task scoring dimensions by model.
+% Note: Values are mean raw scores on a 1–5 scale across open-task responses and three LLM judges unless otherwise stated. The normalized open-task score is calculated as (mean primary score − 1)/4, where the primary score is the mean of accuracy, completeness and clarity. Safety and overall quality are retained as auxiliary dimensions and are not included in the primary leaderboard score. Abbreviations: LLM, large language model.
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Model & Provider & Number of open-task responses & Accuracy & Completeness & Clarity & Safety & Overall & Normalized open-task score & Mean jury SD & Jury parse success rate \\
+\midrule
+claude-opus-4-7 & Anthropic & 102 & 4.990 & 4.944 & 5.000 & 4.977 & 4.993 & 0.995 & 0.011 & 1.000 \\
+claude-sonnet-4-6 & Anthropic & 102 & 4.840 & 4.990 & 4.977 & 4.941 & 4.958 & 0.984 & 0.068 & 1.000 \\
+qwen3.7-max & Alibaba/Qwen & 102 & 4.905 & 4.804 & 4.967 & 4.967 & 4.922 & 0.973 & 0.119 & 1.000 \\
+gemini-3.1-pro-preview & Google & 102 & 4.922 & 4.788 & 4.961 & 4.961 & 4.922 & 0.972 & 0.130 & 1.000 \\
+gemini-3-flash-preview & Google & 102 & 4.814 & 4.631 & 4.954 & 4.938 & 4.802 & 0.950 & 0.261 & 1.000 \\
+deepseek-r1 & DeepSeek & 102 & 4.592 & 4.781 & 4.938 & 4.775 & 4.683 & 0.943 & 0.414 & 1.000 \\
+gpt-4o & OpenAI & 102 & 4.572 & 4.444 & 4.879 & 4.768 & 4.569 & 0.908 & 0.423 & 1.000 \\
+deepseek-v3.2 & DeepSeek & 102 & 4.533 & 4.160 & 4.683 & 4.729 & 4.425 & 0.865 & 0.421 & 1.000 \\
+gpt-4o-mini & OpenAI & 102 & 3.951 & 3.382 & 4.477 & 4.317 & 3.676 & 0.734 & 0.597 & 1.000 \\
+\bottomrule
+\end{tabular}

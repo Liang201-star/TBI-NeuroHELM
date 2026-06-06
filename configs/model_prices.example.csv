@@ -1,0 +1,10 @@
+model_name,provider,input_price_per_1m,output_price_per_1m,notes
+gpt-4o,OpenAI,2.500,10.000,Example price; verify current provider/API platform pricing before analysis
+gpt-4o-mini,OpenAI,0.150,0.600,Example price; verify current provider/API platform pricing before analysis
+deepseek-r1,DeepSeek,0.570,2.280,Example price; verify current provider/API platform pricing before analysis
+claude-opus-4-7,Anthropic,5.000,25.000,Example price; verify current provider/API platform pricing before analysis
+claude-sonnet-4-6,Anthropic,3.000,15.000,Example price; verify current provider/API platform pricing before analysis
+gemini-3.1-pro-preview,Google,1.800,10.800,Example price; verify current provider/API platform pricing before analysis
+gemini-3-flash-preview,Google,0.440,2.640,Example price; verify current provider/API platform pricing before analysis
+deepseek-v3.2,DeepSeek,0.280,0.420,Example price; verify current provider/API platform pricing before analysis
+qwen3.7-max,Alibaba/Qwen,1.714,5.142,Example price; verify current provider/API platform pricing before analysis

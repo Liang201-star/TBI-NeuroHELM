@@ -1,0 +1,17 @@
+% Table 1. Overall model performance in the TBI-NeuroHELM benchmark suite.
+% Note: Models are ranked by mean pairwise win rate across the 12 TBI-NeuroHELM benchmarks. Scores are normalized to a 0–1 scale, with higher values indicating better performance. Win SD is the standard deviation of benchmark-level win rates. The tie=0.5 and tie=win columns report sensitivity analyses under alternative tie-handling rules. Macro-average is the unweighted mean normalized benchmark score across all benchmarks. Abbreviations: SD, standard deviation; TBI, traumatic brain injury.
+\begin{tabular}{rllrrrrrr}
+\toprule
+Rank & Model & Provider & Mean win rate & Win SD & Mean win rate (tie=0.5) & Mean win rate (tie=win) & Macro-average & SD \\
+\midrule
+1 & claude-opus-4-7 & Anthropic & 0.938 & 0.120 & 0.943 & 0.948 & 0.931 & 0.132 \\
+2 & gemini-3.1-pro-preview & Google & 0.698 & 0.201 & 0.719 & 0.740 & 0.920 & 0.128 \\
+3 & claude-sonnet-4-6 & Anthropic & 0.688 & 0.201 & 0.703 & 0.719 & 0.917 & 0.131 \\
+4 & qwen3.7-max & Alibaba/Qwen & 0.604 & 0.168 & 0.620 & 0.635 & 0.900 & 0.115 \\
+5 & gemini-3-flash-preview & Google & 0.490 & 0.180 & 0.495 & 0.500 & 0.888 & 0.127 \\
+6 & gpt-4o & OpenAI & 0.385 & 0.148 & 0.385 & 0.385 & 0.892 & 0.123 \\
+7 & deepseek-r1 & DeepSeek & 0.312 & 0.272 & 0.318 & 0.323 & 0.871 & 0.116 \\
+8 & deepseek-v3.2 & DeepSeek & 0.292 & 0.219 & 0.297 & 0.302 & 0.856 & 0.138 \\
+9 & gpt-4o-mini & OpenAI & 0.021 & 0.047 & 0.021 & 0.021 & 0.788 & 0.105 \\
+\bottomrule
+\end{tabular}

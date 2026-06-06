@@ -1,0 +1,13 @@
+Benchmark,Benchmark name,Category,Subcategories,Total instances,Closed QA instances,Open-task instances,Basic,Intermediate,Advanced,Primary scoring method
+CDS-B01,CDS-B01 - Recognition and Classification,Clinical Decision Support,Injury Type Recognition and Clinical Classification | TBI Identification and Severity Grading,26,22,4,12,10,4,Exact match; LLM-jury
+CDS-B02,CDS-B02 - Integrated Neurological Function Assessment,Clinical Decision Support,Identification and Integrated Assessment of Neurological Deficits,18,10,8,8,7,3,Exact match; LLM-jury
+CDS-B03,CDS-B03 - Risk Assessment and Clinical Management,Clinical Decision Support,Clinical Management Decision Support | Risk Prediction and Prognostic Assessment,26,20,6,12,10,4,Exact match; LLM-jury
+COM-B01,COM-B01 - Condition Explanation,Patient Communication and Education,Explanation of Condition and Injury Status | Explanation of Investigations and Treatment Plans,22,12,10,10,8,4,Exact match; LLM-jury
+COM-B02,COM-B02 - Risk and Rehabilitation Communication,Patient Communication and Education,Communication of Risk and Prognosis | Rehabilitation Guidance and Home Care Education,22,12,10,10,8,4,Exact match; LLM-jury
+COM-B03,COM-B03 - Follow-up and Long-term Management Communication,Patient Communication and Education,Follow-up and Long-term Surveillance Recommendations,16,10,6,7,6,3,Exact match; LLM-jury
+DOC-B01,"DOC-B01 - Structured Documentation of History, Neurological Examination, and Scales",Clinical Documentation Generation,History and Neurological Examination Documentation | Structured Recording of Scales and Scores,22,12,10,10,8,4,Exact match; LLM-jury
+DOC-B02,DOC-B02 - Investigation and Clinical Course Summarization,Clinical Documentation Generation,Investigation Findings and Clinical Course Summarization | Progress Note Generation and Interval Assessment,22,8,14,10,8,4,Exact match; LLM-jury
+DOC-B03,DOC-B03 - Discharge and Follow-up Documentation,Clinical Documentation Generation,Discharge and Follow-up Documentation,16,6,10,7,6,3,Exact match; LLM-jury
+RES-B01,RES-B01 - Research Data and Variable Definition,Medical Research Assistance,Assessment Data Curation and Analysis | Variable and Outcome Definition Support,18,12,6,8,8,2,Exact match; LLM-jury
+RES-B02,RES-B02 - Research Summarization and Comparative Analysis,Medical Research Assistance,Model Evaluation and Comparative Analysis | Research Findings Summarization and Writing Support,18,6,12,8,8,2,Exact match; LLM-jury
+RES-B03,RES-B03 - Research Quality and Bias Control,Medical Research Assistance,Research Quality Control and Bias Assessment,14,8,6,6,6,2,Exact match; LLM-jury

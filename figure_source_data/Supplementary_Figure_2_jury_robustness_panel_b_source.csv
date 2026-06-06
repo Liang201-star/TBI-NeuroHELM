@@ -1,0 +1,13 @@
+jury_subset,subset_size,reference_subset,n_models,spearman_rank_corr_with_reference,pearson_macro_corr_with_reference,top1_model,top1_matches_reference,top3_overlap_with_reference,mean_macro_average,mean_win_rate,subset_label
+claude-opus-4-7,1,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,1.0,0.9966857614623934,claude-opus-4-7,True,1.0,0.866818377524396,0.4791666666666666,claude-opus-4-7
+gpt-4o,1,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,0.9666666666666668,0.9897932855146908,claude-opus-4-7,True,1.0,0.8902926366757387,0.431712962962963,gpt-4o
+gemini-3.1-pro-preview,1,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,0.9666666666666668,0.9878741825620018,claude-opus-4-7,True,1.0,0.8970361664227404,0.3865740740740741,gemini-3.1-pro-preview
+gpt-4o+claude-opus-4-7,2,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,1.0,0.9981960818927684,claude-opus-4-7,True,1.0,0.8785555071000672,0.4872685185185185,"gpt-4o+
+claude-opus-4-7"
+claude-opus-4-7+gemini-3.1-pro-preview,2,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,1.0,0.9975893890098776,claude-opus-4-7,True,1.0,0.8819272719735683,0.4826388888888889,"claude-opus-4-7+
+gemini-3.1-pro-preview"
+gpt-4o+gemini-3.1-pro-preview,2,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,0.9833333333333332,0.998553697939943,claude-opus-4-7,True,1.0,0.8936644015492397,0.454861111111111,"gpt-4o+
+gemini-3.1-pro-preview"
+gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,3,gpt-4o+claude-opus-4-7+gemini-3.1-pro-preview,9,1.0,1.0,claude-opus-4-7,True,1.0,0.8847157268742917,0.4907407407407407,"gpt-4o+
+claude-opus-4-7+
+gemini-3.1-pro-preview"

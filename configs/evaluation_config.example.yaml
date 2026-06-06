@@ -1,0 +1,14 @@
+# Example configuration for the TBI-NeuroHELM evaluation workflow.
+# The full private benchmark files are not included in this public repository.
+
+input_csv: examples/manuscript_example_input_instances.csv
+mapping_xlsx: examples/manuscript_example_case_id_mapping.xlsx
+benchmark_xlsx: examples/manuscript_example_benchmark_master.xlsx
+prompt_txt: prompts/system_prompt.txt
+out_dir: example_outputs_preflight
+mode: preflight
+workers: 5
+temperature: 0.0
+closed_max_tokens: 3072
+open_max_tokens: 6144
+jury_max_tokens: 4096

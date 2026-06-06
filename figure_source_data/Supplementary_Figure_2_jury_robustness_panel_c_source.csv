@@ -1,0 +1,10 @@
+model_name,min,max,mean
+claude-opus-4-7,1,1,1.0
+gemini-3.1-pro-preview,2,3,2.2857142857142856
+claude-sonnet-4-6,2,3,2.7142857142857144
+qwen3.7-max,4,4,4.0
+gemini-3-flash-preview,5,6,5.285714285714286
+gpt-4o,5,6,5.714285714285714
+deepseek-r1,7,8,7.142857142857143
+deepseek-v3.2,7,8,7.857142857142857
+gpt-4o-mini,9,9,9.0

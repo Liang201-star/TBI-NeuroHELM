@@ -1,0 +1,10 @@
+Model,Provider,Requested API model ID,Observed response model ID,Used as test model,Used as jury model,Input price per 1M tokens,Output price per 1M tokens,Temperature,Closed max tokens,Open max tokens,Jury max tokens,Workers
+claude-opus-4-7,Anthropic,claude-opus-4-7,claude-opus-4-7,True,True,5.0,25.0,0.0,3072,6144,4096,5
+claude-sonnet-4-6,Anthropic,claude-sonnet-4-6,claude-sonnet-4-6,True,False,3.0,15.0,0.0,3072,6144,4096,5
+deepseek-r1,DeepSeek,deepseek-r1,DeepSeek-R1-0528,True,False,0.57,2.28,0.0,3072,6144,4096,5
+deepseek-v3.2,DeepSeek,deepseek-v3.2,deepseek-v3.2,True,False,0.28,0.42,0.0,3072,6144,4096,5
+gemini-3-flash-preview,Google,gemini-3-flash-preview,gemini-3-flash-preview,True,False,0.44,2.64,0.0,3072,6144,4096,5
+gemini-3.1-pro-preview,Google,gemini-3.1-pro-preview,gemini-3.1-pro-preview,True,True,1.8,10.8,0.0,3072,6144,4096,5
+gpt-4o,OpenAI,gpt-4o,gpt-4o,True,True,2.5,10.0,0.0,3072,6144,4096,5
+gpt-4o-mini,OpenAI,gpt-4o-mini,gpt-4o-mini,True,False,0.15,0.6,0.0,3072,6144,4096,5
+qwen3.7-max,Alibaba/Qwen,qwen3.7-max,qwen3.7-max,True,False,1.714,5.142,0.0,3072,6144,4096,5

@@ -1,0 +1,9 @@
+cff-version: "v3-renumbered"
+title: "TBI-NeuroHELM: evaluation code for large language models in traumatic brain injury neurological assessment"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "TBI-NeuroHELM authors"
+version: "v3-renumbered"
+date-released: "2026-06-06"
+repository-code: "https://github.com/Liang201-star/TBI-NeuroHELM"
